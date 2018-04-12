@@ -20,7 +20,7 @@
   "dependencies": {
     "async": ">= 0.1.22",
     "bunyan": ">= 1.3.5",
-    "ldapjs": "^0.7.x",
+    "ldapjs": "^0.8.x",
     "underscore": ">= 1.4.3"
   },
   "repository": {
